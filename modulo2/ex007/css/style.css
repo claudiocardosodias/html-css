@@ -1,0 +1,26 @@
+body{
+    background-image: url(/ex007/imagens/wallpaper003.jpg);
+}
+
+div.quadrado{
+    display: inline-block;
+    background-color: lightgrey;
+    width: 300px;
+    height: 300px;
+    border:2px solid black;
+    border-radius: 10px;
+
+}
+
+
+div#q1{
+    background-color: cadetblue;
+}
+
+div#q2{
+    background-image: linear-gradient(to bottom , yellow , orange , red);
+}
+
+div#q3{
+    background-image: url('/ex007/imagens/pattern003.png');
+}
