@@ -1,0 +1,42 @@
+ 
+ 
+
+body{
+    background-image: linear-gradient(to right , #037F8C , #D9B18F);
+}
+
+
+main {
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin-top: 10px;
+    margin: auto;
+    border-radius: 10%;
+    box-shadow: 5px 5px 12px #BF3F34;
+
+}
+
+
+
+h1  {
+    color: #B4C4D9;
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    text-shadow: 1px 1px 5px #9daec4;
+    
+}
+
+h2 {
+    color: #024873;
+    text-align: center;
+    font-size: 26px;
+    font-family: sans-serif;
+
+}
+
+p {
+ 
+    text-align: justify;
+}

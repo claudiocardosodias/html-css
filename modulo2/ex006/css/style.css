@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+
+h1 {
+    background-color: lightblue;
+    height:  300px;
+    width: 300px;
+   
+    
+    border: 10px solid lightcoral;
+    
+    
+    margin: 20px 20px 20px 20px;
+
+    outline-width: 5px;
+    outline-color: deeppink;
+    outline-style: dashed;
+    
+}
+
+a{
+    
+    border-width: 3px;
+    border-style: dashed;
+    border-color: lightcoral;
+}

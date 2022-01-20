@@ -1,0 +1,24 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+
+   /* medidas absolutas 
+   cm , mm , in , px , pt , pc
+
+   medidas alternativas 
+   em , ex , rem , vw , vh, %
+   */
+
+   /* 16px e um = 1em */
+   
+
+}
+
+h1{
+
+    /* shorthand font (''ela faz essas coisas em um unico codigo , apenas usando ''font: e aqui voce completa a fonte , italico , tamanho etc... ex''')
+    
+    font-style-> font-weight->font-size->font-family
+    
+    */
+}
+
