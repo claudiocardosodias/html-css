@@ -4,11 +4,21 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+
+/*shorthand - backgroud
+    color , imagem , position , repeat , size  e attachment
+*/
+
 }
+
+
+
+
 
 main{
     background-color: white;
-    width: 400px;
+    max-width: 400px;
     padding: 10px;
     margin: auto;
     border: 1px solid violet;
