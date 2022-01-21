@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    background-image: url('/ex007/imagens/wallpaper002.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main{
+    background-color: white;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid violet;
+    border-radius: 15px;
+}
