@@ -1,3 +1,7 @@
+
+
+
+
 body{
     background-image: url(/ex007/imagens/wallpaper003.jpg);
 }
@@ -13,6 +17,7 @@ div.quadrado{
 }
 
 
+
 div#q1{
     background-color: cadetblue;
 }
@@ -22,5 +27,6 @@ div#q2{
 }
 
 div#q3{
-    background-image: url('/ex007/imagens/pattern003.png');
+    background-image: url('/ex007/imagens/wallpaper003.jpg');
 }
+
