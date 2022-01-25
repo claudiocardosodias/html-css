@@ -1,0 +1,18 @@
+table{
+    
+    border-collapse: collapse;
+    width: 600px;
+   
+}
+
+caption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+th , td{
+    border: 1px solid black;
+    border: 1px solid black;
+}
+
